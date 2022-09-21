@@ -1,0 +1,163 @@
+GET / HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-HK;q=0.6,de;q=0.5
+Cookie: JSESSIONID=badCeyhYly; serverid=14256
+Host: info.tsinghua.edu.cn
+Proxy-Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+
+GET /assets/css/custom.css HTTP/1.1
+Accept: text/css,*/*;q=0.1
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-HK;q=0.6,de;q=0.5
+Cache-Control: no-cache
+Host: consumingrestapis.github.io
+Pragma: no-cache
+Proxy-Connection: keep-alive
+Referer: http://consumingrestapis.github.io/chapter-2/2.1-http-request.html
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+
+GET /rfc/rfc7231 HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-HK;q=0.6,de;q=0.5
+Cache-Control: no-cache
+Connection: keep-alive
+Host: www.rfc-editor.org
+Pragma: no-cache
+Referer: https://www.google.com/
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+
+GET /analytics/track.png?url=https%3A%2F%2Ftechdocs.broadcom.com%2Fus%2Fen%2Fca-enterprise-software%2Flayer7-api-management%2Flive-api-creator%2F5-4%2Finvoking-apis%2Fhttp-headers.html&referrer=https%3A%2F%2Fwww.google.com%2F&e=pageView&t=HTTP%20Headers&uid=e95e476a-e759-11ea-beba-0242ac12000b&r=35807&sid=1661921107287298&taid=1661921107287133&internal=& HTTP/1.1
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-HK;q=0.6,de;q=0.5
+Cache-Control: no-cache
+Connection: keep-alive
+Cookie: _gid=GA1.2.2026648435.1661921106; _gat_UA-61260089-5=1; _ga=GA1.1.433543581.1661921106; connect.sid=s%3Atu1AsytKmpy06sZ6GqPi34COfRJg5Vnz.OYBbcXClGdyaWsaMraI2c; _ga_5DXTP07SYF=GS1.1.1661921106.1.0.1661921111.0.0.0; OptanonConsent=isIABGlobal=false&datestamp=Wed+Aug+31+2022+12%3A45%3A14+GMT%2B0800+(GMT%2B08%3A00)&version=6.9.0&hosts=&consentId=d7a89c99-4b87-4793-bd6e-507e0695f8fc&interactionCount=1&landingPath=https%3A%2F%2Ftechdocs.broadcom.com%2Fus%2Fen%2Fca-enterprise-software%2Flayer7-api-management%2Flive-api-creator%2F5-4%2Finvoking-apis%2Fhttp-headers.html&groups=1%3A1%2C3%3A1%2C2%3A1%2C4%3A1
+Host: searchunify.broadcom.com
+Pragma: no-cache
+Referer: https://techdocs.broadcom.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+
+GET /videoplayback?expire=1661942918&ei=JegOY5yMI_-z2_gP4-i76Ak&ip=2a0e%3A6901%3A301%3A36%3A5054%3Aff%3Afe95%3A360b&id=o-AEo2ZhMnsKv0VZZ3lAiFQ_szmKjnmns_f39s1zVm87-o&itag=251&source=youtube&requiressl=yes&mh=9y&mm=31%2C26&mn=sn-axq7sn7l%2Csn-5hne6nsz&ms=au%2Conr&mv=u&mvi=16&pl=40&spc=lT-KhmgxszjvW4pXlXMW6cWtSp_PbO8jEPI0cDGOxn26&vprv=1&mime=audio%2Fwebm&ns=YzexES9gwhJ_h5m4I_XukV8H&gir=yes&clen=9534849&dur=599.421&lmt=1652492779352366&mt=1661920226&fvip=3&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&txp=4532434&n=x4oh9S8fQ4GlSg&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgNz7PX8yAHC1wJQhc5nIOR0TkqvT7NX1dIuQ22NVz4nQCIQClf9tSBWvHmwGjPHJQQL1YYHUWDgDNiBGtZjrO0tYbYg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRAIgSuiq407BKCDsDIK3-ZeBAoa_xVl1ewRArqvx7Oh90J4CIA-VzXt-b2sO7LnbXC5Wygv28hkg66wpWmFp_4uLDFPX&alr=yes&cpn=vMa4WfJW8Q0ef1kY&cver=2.20220830.01.00&range=260205-479647&rn=7&rbuf=13124&pot=D9bWk9tpz8Lc1uuSplFfSnh88v97fTucnc1GfKhufxI9gjG9df_cLRlSciI3kFh7SoJXPAEVTaYdbyW12uijo-cNV6niQkP9IGcYe94sBi6Fby2D_AII8cqj-bN0APKr2g== HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,zh-HK;q=0.6,de;q=0.5
+Cache-Control: no-cache
+Connection: keep-alive
+Host: rr16---sn-axq7sn7l.googlevideo.com
+Origin: https://www.youtube.com
+Pragma: no-cache
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+X-Client-Data: CJO2yQEIo7bJAQjAEInMnMAQjjy8wBCIbSzAEYranKAQ==
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Google Chrome";v="104"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version: "104.0.5112.102"
+sec-ch-ua-full-version-list: "Chromium";v="104.0.5112.102", " Not A;Brand";v="99.0.0.0", "Google Chrome";v="104.0.5112.102"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-model: 
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-platform-version: "8.0.0"
+
+GET /login.srf?wa=wsignin1.0&rpsnv=13&ct=1661921385&rver=7.3.6962.0&wp=MBI_SSL&wreply=https:%2F%2Fstorage.live.com%2Fstorageservice%2Fpassport%2Fauth.aspx%3Fsru%3Dhttps:%252f%252fstorage.live.com%252fusers%252f0xfa2b2c40fb8de010%252fmyprofile%252fexpressionprofile%252fprofilephoto:UserTileStatic%252fp&lc=1033&id=63539 HTTP/1.1
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection: keep-alive
+Cookie: MSCC=183.172.120.117-CN
+Host: login.live.com
+Referer: https://www.bing.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Microsoft Edge";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+
+GET /load.min.js HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection: keep-alive
+Host: cstaticdun.126.net
+Origin: https://www.zhihu.com
+Referer: https://www.zhihu.com/signin?next=%2F
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Microsoft Edge";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+
+POST /v3/d HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection: keep-alive
+Content-Length: 1118
+Content-type: application/x-www-form-urlencoded
+Host: ac.dun.163.com
+Origin: https://www.zhihu.com
+Referer: https://www.zhihu.com/signin?next=%2F
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Microsoft Edge";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+
+GET /videoplayback?expire=1661943076&ei=xOgOY-C3JZagir4PnLO8mAU&ip=2a0e%3A6901%3A301%3A36%3A5054%3Aff%3Afe95%3A360b&id=o-ADh9F5t11Naf_ohrhbfZVsCwJJciJQUhrrqxLcBDvnSB&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=6l&mm=31%2C26&mn=sn-axq7sn7e%2Csn-5hnednsz&ms=au%2Conr&mv=u&mvi=10&pl=40&vprv=1&mime=video%2Fwebm&ns=SKGUEBThuzXyaxl6l8_m2ScH&gir=yes&clen=124446&dur=28.000&lmt=1651048725227508&mt=1661920226&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB&rbqsm=fr&txp=5316224&n=geiUmGtrOf8XkA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAImO6YneZhEbs8kikXKB1L8DykKfKUP5qY_xwbJ-s3bgAiEA3FYVczy-nbAiNgfg5sGUcWyLucTMhxkmDitkqPywokI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRQIgOKIgml5fXZb5bKQBJ9VRSFfyby3Gz_0jplKFGPMRXrECIQCH_80Rj5QRHj1GLcFvbydP9fw_gGXUdRII1EqHyUkljQ%3D%3D&alr=yes&cpn=P7S-_5dIqJZJSYk1&cver=2.20220830.01.00&range=0-315&rn=10&rbuf=0&pot=D0Vnls4HaDxARVqXsz_4tKkRNQ46tHw9YO_NhD2KJJ3yXCtrAG2-2etbAUiJ--Xi2m1PRwfKLIjZtHRdV9zThzjtMbe9I4Q3cmhwhdeRG4Uw0M_IHj2hh6J-zbycBV7pdydwMMcFv0LvjQ== HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection: keep-alive
+Host: rr10---sn-axq7sn7e.googlevideo.com
+Origin: https://www.youtube.com
+Referer: https://www.youtube.com/
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Microsoft Edge";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+
+GET /images/v-0a2fe52c-5778-4c53-2321975-b5aa-ceeda1880f32-0.0.jpg HTTP/1.1
+Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+Connection: keep-alive
+Host: apv-static.minute.ly
+Referer: https://stories.mlb.com/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70
+sec-ch-ua: "Chromium";v="104", " Not A;Brand";v="99", "Microsoft Edge";v="104"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
